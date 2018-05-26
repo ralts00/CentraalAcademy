@@ -4,7 +4,7 @@
 - Unix para servidores
 - MS-DOS mas personal
 - Instalar el IDE
-
+ 
 ##Segunda Clase
 
 - Perzonalizar el IDE
